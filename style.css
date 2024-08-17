@@ -1,0 +1,54 @@
+* {
+margin:0;
+padding:0;
+box-sizing:border-box;
+
+}
+
+.logo {
+    width:7%;
+    height:7%;
+}
+.card-img-top{
+    width:100%;
+    height:200px;
+    object-fit:cover;  
+}
+.admin_image {
+  width:100px;
+  object:contain;
+}
+.footer {
+    position:absolute;
+    bottom:0;
+}
+body{
+    overflow-x:hidden;
+}
+.product_image{
+  width:100px;
+  object-fit:contain;
+}
+.cart_image{
+   width:80px;
+   height:80px;
+   object-fit:contain; 
+}
+
+.profile_img {
+    width:90%;
+    margin:auto;
+    display:block;
+   /* height:100%;*/
+    object-fit:contain;
+}
+
+.edit_image{
+    width:100px;
+    heigt:100px;
+    object-fit:contain;
+}
+
+
+
+
